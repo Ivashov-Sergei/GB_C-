@@ -9,3 +9,12 @@
 
 # ex8
 ![example 8](ex8.jpg)
+
+# ex10
+![example 8](ex10.jpg)
+
+# ex13
+![example 8](ex13.jpg)
+
+# ex15
+![example 8](ex15.jpg)

@@ -11,10 +11,28 @@
 ![example 8](ex8.jpg)
 
 # ex10
-![example 8](ex10.jpg)
+![example 10](ex10.jpg)
 
 # ex13
-![example 8](ex13.jpg)
+![example 13](ex13.jpg)
 
 # ex15
-![example 8](ex15.jpg)
+![example 15](ex15.jpg)
+
+# ex19
+![example 19](ex19.jpg)
+
+# ex21
+![example 21](ex21.jpg)
+
+# ex23
+![example 23](ex23.jpg)
+
+# ex25
+![example 25](ex25.jpg)
+
+# ex27
+![example 27](ex27.jpg)
+
+# ex29
+![example 29](ex29.jpg)

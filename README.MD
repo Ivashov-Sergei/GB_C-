@@ -36,3 +36,18 @@
 
 # ex29
 ![example 29](ex29.jpg)
+
+# ex34
+![example 34](ex34.jpg)
+
+# ex36
+![example 36](ex36.jpg)
+
+# ex38
+![example 38](ex38.jpg)
+
+# ex41
+![example 41](ex41.jpg)
+
+# ex43
+![example 43](ex43.jpg)

@@ -51,3 +51,33 @@
 
 # ex43
 ![example 43](ex43.jpg)
+
+# ex47
+![example 47](ex47.jpg)
+
+# ex50
+![example 50](ex50.jpg)
+
+# ex52
+![example 52](ex52.jpg)
+
+# ex54
+![example 54](ex54.jpg)
+
+# ex56
+![example 56](ex56.jpg)
+
+# ex58
+![example 58](ex58.jpg)
+
+# ex60
+![example 60](ex60.jpg)
+
+# ex62
+![example 62](ex62.jpg)
+
+# ex64
+![example 64](ex64.jpg)
+
+# ex66
+![example 66](ex66.jpg)
